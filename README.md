@@ -1,7 +1,6 @@
 # AI Resources
 
-8 Free courses where you can learn artificial intelligence topics (focused on machine learning and robotics) by working on your own from home!
-
+Free lessons where you can learn artificial intelligence topics (focused on machine learning and robotics) by working on your own from home!
 I created this repository to collect links that I find useful in the field of free road maps and resources for AI. I will update regularly!
 
 - [Basics of Mathematics for Machine Learning](https://canvas.cmu.edu/courses/603/assignments/syllabus)
