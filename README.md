@@ -37,26 +37,23 @@ Today, the largest and most successful businesses have used artificial intellige
 Deep learning artificial intelligence technologies and artificial neural networks are developing rapidly because artificial intelligence processes large amounts of data much faster than humans and makes more accurate predictions than is possible with human capabilities.
 While the huge volume of data generated will engage a human researcher, artificial intelligence applications that use machine learning can quickly turn that data into action. As of this writing, the primary disadvantage of using AI is that it is expensive to process the large amounts of data required by AI programming.
 
-#### Advantages
-Good at detail-oriented work;
+- Advantages
 
-Reduced time for data-heavy tasks;
+Good at detail-oriented work
 
-Delivers consistent results; and
+Reduced time for data-heavy tasks
 
-Virtual agents with AI support are always available.
+Delivers consistent results and Virtual agents with AI support are always available.
 
-#### Disadvantages
-Expensive;
+- Disadvantages
 
-It requires deep technical expertise;
+Expensive
 
-Limited supply of qualified programmers to create AI tools;
+It requires deep technical expertise
 
-He only knows what is shown; and
+Limited supply of qualified programmers to create AI tools
 
-Lack of the ability to generalize from one task to another.
-
+He only knows what is shown and Lack of the ability to generalize from one task to another.
 
 Strong AI versus weak AI
 
