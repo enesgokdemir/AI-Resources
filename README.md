@@ -2,7 +2,7 @@
 
 Free lessons and articles where you can learn artificial intelligence topics (focused on machine learning and robotics) by working on your own from home!
 
-I created this repository to collect links that I find useful in the field of free road maps and resources for AI. I will update regularly!
+I created this repository to collect links that I find useful in the field of free road maps and resources for AI. I'll update regularly!
 
 - [Basics of Mathematics for Machine Learning](https://canvas.cmu.edu/courses/603/assignments/syllabus)
 - [Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
