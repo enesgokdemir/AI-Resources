@@ -131,3 +131,26 @@ Reinforcement learning. Data sets aren't labeled but, after performing an action
 
 - Self-driving cars. Autonomous vehicles use a combination of computer vision, image recognition and deep learning to build automated skill at piloting a vehicle while staying in a given lane and avoiding unexpected obstructions, such as pedestrians.
 
+- Python Libraries for Data Science and Machine Learning:
+
+ ☑️ Pandas
+
+ ☑️ Numpy
+
+ ☑️ Matplotlib
+
+ ☑️ Seaborn
+
+ ☑️ Sklearn
+
+ ☑️ Scipy
+
+ ☑️ Tensorflow
+
+ ☑️ Pytorch
+
+ ☑️ Open CV
+
+ ☑️ XGBoost
+
+ ☑️ Langchain
