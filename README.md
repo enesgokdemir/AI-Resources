@@ -12,6 +12,10 @@ I created this repository to collect links that I find useful in the field of fr
 - [Deep Learning](https://cds.nyu.edu/deep-learning/)
 - [Natural Language Processing with Deep Learning (DDI)](http://web.stanford.edu/class/cs224n/)
 - [Full Stack Deep Learning](https://fullstackdeeplearning.com/spring2021/)
+- [Introduction to Baseline: Data, ML, AI](http://cloudskillsboost.google/quests/34)
+- [Data Science with Python](https://learndigital.withgoogle.com/digitalunlocked/course/data-science-with-python)
+- [Google's Python Class](http://developers.google.com/edu/python)
+
 
 ### What is artificial intelligence (AI)?
 
